@@ -11,4 +11,4 @@ Questions:
 
 Visualization
 
-<img width="987" height="801" alt="image" src="https://github.com/user-attachments/assets/4b71dd23-70dc-4414-828c-55e128097d07" /><kbd>
+<img width="1296" height="896" alt="image" src="https://github.com/user-attachments/assets/e3a50f61-3f9c-4515-af2a-c66ebf3482b9" />
