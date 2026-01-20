@@ -11,4 +11,4 @@ Questions:
 
 Visualization
 
-<img width="499" height="401" alt="Screenshot 2026-01-19 175037" src="https://github.com/user-attachments/assets/34409f0b-4f11-4dd9-af37-6c3d5ff932d3" /><kbd>
+<img width="987" height="801" alt="image" src="https://github.com/user-attachments/assets/4b71dd23-70dc-4414-828c-55e128097d07" /><kbd>
